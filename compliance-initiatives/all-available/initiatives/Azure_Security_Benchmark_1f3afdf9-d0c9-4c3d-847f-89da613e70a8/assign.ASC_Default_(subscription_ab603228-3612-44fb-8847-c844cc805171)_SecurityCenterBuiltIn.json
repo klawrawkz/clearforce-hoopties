@@ -1,0 +1,29 @@
+{
+ "sku": {
+  "name": "A1",
+  "tier": "Standard"
+ },
+ "properties": {
+  "displayName": "ASC Default (subscription: ab603228-3612-44fb-8847-c844cc805171)",
+  "policyDefinitionId": "/providers/Microsoft.Authorization/policySetDefinitions/1f3afdf9-d0c9-4c3d-847f-89da613e70a8",
+  "scope": "/subscriptions/ab603228-3612-44fb-8847-c844cc805171",
+  "parameters": {},
+  "description": "This is the default set of policies monitored by Azure Security Center. It was automatically assigned as part of onboarding to Security Center. The default assignment contains only audit policies. For more information please visit https://aka.ms/ascpolicies",
+  "metadata": {
+   "assignedBy": "Security Center",
+   "excludedOutOfTheBoxStandards": [
+    "PCI DSS 3.2.1",
+    "ISO 27001",
+    "SOC TSP"
+   ],
+   "createdBy": "0c665798-d5e4-4a35-adaa-f2a180a58429",
+   "createdOn": "2021-05-07T20:26:47.6264437Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/ab603228-3612-44fb-8847-c844cc805171/providers/Microsoft.Authorization/policyAssignments/SecurityCenterBuiltIn",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "SecurityCenterBuiltIn"
+}
