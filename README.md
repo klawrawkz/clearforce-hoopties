@@ -1,2 +1,2 @@
 # clearforce-hoopties
-compliance, policy, standards, cholate sprinkles
+compliance, policy, and standards with cholate sprinkles.
